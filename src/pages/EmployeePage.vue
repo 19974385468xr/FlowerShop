@@ -4,6 +4,7 @@
     <div class="q-gutter-md" style="max-width: 300px">
       <q-input v-model="text" label="姓名" />
     </div>
+    <q-btn color="primary" label="Primary" />
 </div>
 </template>
 
